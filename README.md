@@ -31,8 +31,9 @@ Este repositório contém um script que faz requisições para uma API, coletand
 
 ## Avisos
 
-Certifique-se de ter um token de acesso válido na constante de headers `Authorization` antes de executar o script.
+- Certifique-se de ter um token de acesso válido na constante de headers `Authorization` antes de executar o script.
+- **Importante**: Fique atento ao limite de requisições diárias estabelecido pela API. Exceder esse limite pode resultar no bloqueio temporário ou permanente do seu usuário. Recomendamos sempre verificar a documentação da API e, se possível, inserir pausas entre as requisições para evitar atingir o limite rapidamente.
 
 ---
 
-Este script foi criado e desenvolvido por [Seu Nome]. Qualquer uso indevido ou distribuição sem permissão é proibido.
+Este script foi criado e desenvolvido por Squiford.
