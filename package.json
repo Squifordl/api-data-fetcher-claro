@@ -1,0 +1,25 @@
+{
+  "name": "api-data-fetcher-claro",
+  "version": "1.0.0",
+  "description": "Script para coleta de dados de uma API baseado em diferentes combinações de parâmetros.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "data",
+    "fetcher",
+    "node.js",
+    "claro"
+  ],
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "inquirer": "^8.0.0",
+    "path": "^0.12.7"
+  },
+  "author": "Squiford",
+  "license": "ISC"
+}
