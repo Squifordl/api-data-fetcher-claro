@@ -19,7 +19,7 @@ Este repositório contém um script que faz requisições para uma API, coletand
 2. Navegue até a pasta do projeto.
 3. Execute o script usando o comando `node nome_do_script.js`.
 4. Quando solicitado, insira os estados brasileiros dos quais deseja obter os dados. Você pode inserir vários estados separando-os por vírgulas ou usar `ALL` para todos os estados.
-![Imagem](https://prnt.sc/Ups4cT2A8Mir)
+![Imagem]('https://prnt.sc/Ups4cT2A8Mir')
 5. O script começará a coleta de dados e salvará os resultados na pasta `./data/`.
 
 ## Estrutura do Projeto
